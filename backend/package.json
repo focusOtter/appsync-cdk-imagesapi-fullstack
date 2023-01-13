@@ -1,8 +1,8 @@
 {
-	"name": "cdk-kitchen-sink",
+	"name": "cdk-appsync-images",
 	"version": "0.1.0",
 	"bin": {
-		"cdk-kitchen-sink": "bin/cdk-kitchen-sink.js"
+		"cdk-appsync-images": "bin/cdk-appsync-images.js"
 	},
 	"scripts": {
 		"build": "tsc",
